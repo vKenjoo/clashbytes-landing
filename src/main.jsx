@@ -6,6 +6,7 @@ import Hero from './components/Hero';
 import FeaturesSection from './components/FeaturesSection';
 import CallToAction from './components/CallToAction';
 import Sample from './components/Sample';
+import Footer from './components/Footer';
 
 
 createRoot(document.getElementById('root')).render(
@@ -15,5 +16,6 @@ createRoot(document.getElementById('root')).render(
 		<FeaturesSection />
 		<Sample />
 		<CallToAction />	
+		<Footer />
 	</StrictMode>
 );
