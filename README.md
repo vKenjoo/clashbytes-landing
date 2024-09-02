@@ -1,7 +1,7 @@
 
 # ClashBytes Landing Webpage
 
-Developed by [Josh Kenn Viray](https://www.linkedin.com/in/vkenjo), [Jam Meisy Tan](https://www.linkedin.com/in/jam-meisy-tan/), [Wilmargherix Castañeda](https://www.linkedin.com/in/wlmrcstnd/),[Jasmine Aubrey De Guia](https://www.linkedin.com/in/jasmine-aubrey-de-guia-89375b26b/), [Edrine Frances Esguerra](https://www.linkedin.com/in/edrine-esguerra/)
+Developed by [Josh Kenn Viray](https://www.linkedin.com/in/vkenjo), [Jam Meisy Tan](https://www.linkedin.com/in/jam-meisy-tan/), [Wilmargherix Castañeda](https://www.linkedin.com/in/wlmrcstnd/), [Jasmine Aubrey De Guia](https://www.linkedin.com/in/jasmine-aubrey-de-guia-89375b26b/), [Edrine Frances Esguerra](https://www.linkedin.com/in/edrine-esguerra/)
 
 ## Overview
 
