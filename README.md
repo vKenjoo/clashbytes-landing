@@ -1,5 +1,6 @@
 # ClashBytes Landing Webpage
-Developed by    
+Developed by [Josh Kenn Viray](https://www.linkedin.com/in/vkenjo)
+
 
 `npm install`
 
