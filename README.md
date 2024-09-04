@@ -38,7 +38,3 @@ To set up the ClashBytes landing webpage locally, follow these steps:
 ## Contributing
 
 We welcome contributions! If you have any ideas or find any issues, please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
